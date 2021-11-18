@@ -65,6 +65,14 @@ By copying the script onto the `MICROBIT` drive, you have programmed it into the
 flash memory on the micro:bit, which means even after you unplug the micro:bit,
 your program will still run if the micro:bit is powered by battery.
 
+## How to download your program using webUSB
+
+1. Plug your microbit into your device
+
+2. Press the three dots beside the `download` button
+
+3. Press on connect device and follow instructions
+
 ### ~hint
 
 #### Transfer problems?
